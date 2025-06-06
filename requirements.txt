@@ -1,0 +1,6 @@
+flask
+pillow
+numpy
+tensorflow
+aiohttp
+aiogram>=3.0.0
